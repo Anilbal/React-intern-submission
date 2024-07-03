@@ -13,13 +13,15 @@ Main features of this application:
 
 3. Real-time validation feedback for form fields.
 
-4. Display of records in a table with pagination (5 records per page).
+4. Fetched countries api using axios and stored in options where user can select their country .Default value is set as "Nepal".
 
-5. CRUD operations (Create, Read, Update, Delete) for managing records.If user enter edit button then my readonly table value convert into input field where i can edit and update new data as well as i can delete my user from localstorage.
+5. Display of records in a table with pagination (5 records per page).
 
-6.I made Input and select components which is used in my form components and used React.forwardRef of react for sending reference.
+6. CRUD operations (Create, Read, Update, Delete) for managing records.If user enter edit button then my readonly table value convert into input field where i can edit and update new data as well as i can delete my user from localstorage.
 
-7. In all users , there is search function where i can search user on the basis of their name.
+7. I made Input and select components which is used in my form components and used React.forwardRef of react for sending reference.
+
+8. In all users , there is search function where i can search user on the basis of their name.
 Technologies Used.
 
 
