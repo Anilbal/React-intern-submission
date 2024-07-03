@@ -7,7 +7,7 @@ This project is a React-based CRUD application that allows users to manage recor
 ## Features
 Main features of this application:
 
-1.I used React-Hook-form package  for getting user  fields for Name, Email, Phone Number, DOB, Address    (City, District, Province, Country fetched from API), and Profile Picture upload.
+1. I used React-Hook-form package  for getting user  fields for Name, Email, Phone Number, DOB, Address    (City, District, Province, Country fetched from API),       and Profile Picture upload.
 
 2. Used React-hook-form validation for validating Name, Email, Phone Number, and Profile Picture format.
 
@@ -26,19 +26,28 @@ Technologies Used.
 ## List the technologies, frameworks, and libraries used in your project:
 
 React(vite)
+
 JavaScript
+
 HTML
+
 Tailwind CSS
+
 React-Hook-form
+
 React-router-dom
 
+axios for fetching
 
 
+## Setup Instructions
 
-Setup Instructions
 Provide instructions on how to set up and run your project locally:
 
-Clone the repository: git clone <repository_url>
+Clone the repository: git clone <repository_url
+                                  
 Navigate into the project directory: cd <project_directory>
+
 Install dependencies: npm install
+
 Start the development server: npm start
